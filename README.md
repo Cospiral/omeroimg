@@ -1,2 +1,1 @@
-# omeroimg
-omero's image 
+immagine di omero 
